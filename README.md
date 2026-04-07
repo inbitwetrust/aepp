@@ -1,10 +1,10 @@
 # Ανάπτυξη Εφαρμογών σε  
 # Προγραμματιστικό Περιβάλλον - ΑΕΠΠ  
-<https://www.αναπτυξηεφαρμογων.gr>
-<https://speakerdeck.com/georgearavidis>
-<https://www.slideshare.net/GeorgeAravidis?tab=documents>
-<https://www.calameo.com/accounts/8184843>
-<https://medium.com/@georgearavidis>
+<https://www.αναπτυξηεφαρμογων.gr>  
+<https://speakerdeck.com/georgearavidis>  
+<https://www.slideshare.net/GeorgeAravidis?tab=documents>  
+<https://www.calameo.com/accounts/8184843>  
+<https://medium.com/@georgearavidis>  
 
 Το παρόν αρχείο θεμάτων (επιμέλεια θεμάτων), αποτελεί αποτέλεσμα προσωπικής επιμέλειας,
 οργάνωσης και μορφοποίησης του εκπαιδευτικού υλικού που αφορά τα θέματα Πανελλαδικών
